@@ -1,4 +1,3 @@
-
 Myself myself;
 ArrayList<Enemy> enemies;
 ArrayList<Bullet> myBullets;
